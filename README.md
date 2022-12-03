@@ -1,2 +1,2 @@
 # FrontMentor3
-Formulário resposivo.
+Formulário responsivo.
